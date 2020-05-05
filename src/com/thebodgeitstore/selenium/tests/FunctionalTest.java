@@ -30,6 +30,7 @@ import com.thoughtworks.selenium.SeleneseTestCase;
 /*
  * Note that this is an example of how to use ZAP with Selenium tests,
  * not a good example of how to write good Selenium tests!
+ * 123
  */
 public class FunctionalTest extends SeleneseTestCase {
 
